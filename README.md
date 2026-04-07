@@ -7,12 +7,14 @@ An interactive audio visualizer built using **TouchDesigner** that transforms re
 
 
 
-https://github.com/user-attachments/assets/1dd45070-c9ec-4805-b11e-cc26ed79fc2c
+
+https://github.com/user-attachments/assets/dbe305ac-6e9c-4e33-855b-3d2d30d83f2d
 
 
-https://github.com/user-attachments/assets/dea58fe3-59cb-45e8-86e2-08b8c02b9b0a
 
 
+
+https://github.com/user-attachments/assets/c479bd6c-9601-48c1-abe7-827ae4e6f179
 
 
 
