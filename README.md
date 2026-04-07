@@ -4,6 +4,18 @@
 
 An interactive audio visualizer built using **TouchDesigner** that transforms real-time audio input into dynamic visual patterns. The project reacts to sound frequencies, amplitude, and rhythm to create an immersive audiovisual experience.
 
+
+
+
+https://github.com/user-attachments/assets/1dd45070-c9ec-4805-b11e-cc26ed79fc2c
+
+
+https://github.com/user-attachments/assets/dea58fe3-59cb-45e8-86e2-08b8c02b9b0a
+
+
+
+
+
 ## Features
 
 * Real-time audio input processing
